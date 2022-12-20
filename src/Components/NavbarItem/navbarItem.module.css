@@ -1,0 +1,14 @@
+.NavItems{
+    display: flex;
+    /* border: 2px solid red; */
+    gap: 10px;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.NavName {
+    font-size: 20px;
+    /* font-weight: bold; */
+    padding: 0px 5px;
+
+}
