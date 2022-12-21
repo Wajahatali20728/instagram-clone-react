@@ -7,7 +7,7 @@
 .StatusBar{
     display: flex;
     flex-direction: column;
-    border: 2px solid green;
+    /* border: 2px solid green; */
     width: fit-content;
     align-items: center;
     justify-content: center;
